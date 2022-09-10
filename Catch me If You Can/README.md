@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Suzel</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 My Project Name [Catch Me If You Can](https://github.com/suzelkhan1177/JavaScript-Mini-Projects/tree/main/Catch%20Me%20If%20You%20Can)
+- 🔭 My Project Name [Catch Me If You Can]
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
